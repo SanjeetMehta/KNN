@@ -1,5 +1,5 @@
-# KNN
-Investment risk calculator using k nearest neighbour
+# Classification using K Nearest Neighbor
+Classification model to predict the investment risk based on certain features.
 
 
 Formulas used:
